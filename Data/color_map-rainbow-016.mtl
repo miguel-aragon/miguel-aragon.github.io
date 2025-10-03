@@ -1,0 +1,33 @@
+# Generated MTL file, matplotlib colormap rainbow
+newmtl mtl-000
+Kd 0.498 0.000 1.000
+newmtl mtl-001
+Kd 0.373 0.192 0.992
+newmtl mtl-002
+Kd 0.247 0.380 0.980
+newmtl mtl-003
+Kd 0.122 0.557 0.953
+newmtl mtl-004
+Kd 0.000 0.706 0.922
+newmtl mtl-005
+Kd 0.125 0.831 0.878
+newmtl mtl-006
+Kd 0.251 0.925 0.827
+newmtl mtl-007
+Kd 0.376 0.980 0.769
+newmtl mtl-008
+Kd 0.502 0.996 0.702
+newmtl mtl-009
+Kd 0.627 0.976 0.631
+newmtl mtl-010
+Kd 0.753 0.918 0.549
+newmtl mtl-011
+Kd 0.878 0.824 0.467
+newmtl mtl-012
+Kd 1.000 0.698 0.376
+newmtl mtl-013
+Kd 1.000 0.545 0.282
+newmtl mtl-014
+Kd 1.000 0.373 0.188
+newmtl mtl-015
+Kd 1.000 0.180 0.090
